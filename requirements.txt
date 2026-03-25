@@ -1,0 +1,6 @@
+smolagents[litellm]
+playwright
+Pillow
+python-dotenv
+click
+openai
